@@ -1,0 +1,59 @@
+2025-02-24 10:53:52,207 - DEBUG - STREAM b'IHDR' 16 13
+2025-02-24 10:53:52,208 - DEBUG - STREAM b'pHYs' 41 9
+2025-02-24 10:53:52,208 - DEBUG - STREAM b'IDAT' 62 101
+2025-02-24 10:53:52,209 - DEBUG - STREAM b'IHDR' 16 13
+2025-02-24 10:53:52,209 - DEBUG - STREAM b'pHYs' 41 9
+2025-02-24 10:53:52,209 - DEBUG - STREAM b'IDAT' 62 197
+2025-02-24 10:53:52,210 - DEBUG - STREAM b'IHDR' 16 13
+2025-02-24 10:53:52,210 - DEBUG - STREAM b'pHYs' 41 9
+2025-02-24 10:53:52,210 - DEBUG - STREAM b'IDAT' 62 192
+2025-02-24 10:53:52,211 - DEBUG - STREAM b'IHDR' 16 13
+2025-02-24 10:53:52,211 - DEBUG - STREAM b'pHYs' 41 9
+2025-02-24 10:53:52,211 - DEBUG - STREAM b'IDAT' 62 237
+2025-02-24 10:53:53,644 - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2025-02-24 10:53:53,749 - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/weather?q=Montreal,ca&lang=fr&units=metric&appid=******************** HTTP/1.1" 200 503
+2025-02-24 10:53:53,752 - DEBUG - Starting new HTTP connection (1): openweathermap.org:80
+2025-02-24 10:53:54,009 - DEBUG - http://openweathermap.org:80 "GET /img/wn/04d@2x.png HTTP/1.1" 200 1869
+2025-02-24 10:54:08,876 - INFO - Vérification ajout possible : True
+2025-02-24 10:54:08,877 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 1
+2025-02-24 10:54:42,540 - INFO - Vérification ajout possible : True
+2025-02-24 10:54:42,541 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 2
+2025-02-24 10:54:56,062 - INFO - Vérification ajout possible : True
+2025-02-24 10:54:56,063 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 3
+2025-02-24 10:55:07,395 - INFO - Vérification ajout possible : True
+2025-02-24 10:55:07,396 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 4
+2025-02-24 10:55:27,634 - INFO - Vérification ajout possible : True
+2025-02-24 10:55:27,635 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 5
+2025-02-24 10:56:14,583 - INFO - Vérification ajout possible : True
+2025-02-24 10:56:14,583 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 6
+2025-02-24 10:56:23,224 - INFO - Vérification ajout possible : True
+2025-02-24 10:56:23,225 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 7
+2025-02-24 10:56:33,212 - INFO - Commande 879744 changée à l'état 'En traitement'
+2025-02-24 10:56:34,724 - INFO - Commande 340160 changée à l'état 'En traitement'
+2025-02-24 10:56:36,563 - INFO - Commande 732096 changée à l'état 'En traitement'
+2025-02-24 10:56:47,076 - INFO - Commande 732096 changée à l'état 'Expédiée'
+2025-02-24 10:57:28,390 - INFO - Vérification ajout possible : True
+2025-02-24 10:57:28,390 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 8
+2025-02-24 10:57:52,283 - INFO - Vérification ajout possible : True
+2025-02-24 10:57:52,284 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 9
+2025-02-24 10:58:11,448 - INFO - Vérification ajout possible : True
+2025-02-24 10:58:11,448 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 10
+2025-02-24 10:58:11,452 - INFO - 10eme commande expédiée et supprimée
+2025-02-24 10:58:11,452 - INFO - Commande ajoutée 243968 et autorisée. Nombre de commandes: 10
+2025-02-24 10:58:52,698 - WARNING - Plus de 10 commandes. Vous ne pouvez plus ajouter de commandes
+2025-02-24 10:58:54,100 - INFO - Vérification ajout possible : False
+2025-02-24 10:58:54,100 - INFO - Ajout refusée : Limite atteinte
+2025-02-24 10:59:01,055 - INFO - Commande 965760 changée à l'état 'En traitement'
+2025-02-24 10:59:07,272 - INFO - Commande 965760 changée à l'état 'Expédiée'
+2025-02-24 10:59:10,997 - INFO - Vérification ajout possible : False
+2025-02-24 10:59:10,997 - INFO - Ajout refusée : Limite atteinte
+2025-02-24 10:59:11,001 - INFO - 10eme commande expédiée et supprimée
+2025-02-24 10:59:11,002 - INFO - Commande ajoutée 119744 et autorisée. Nombre de commandes: 10
+2025-02-24 10:59:20,297 - INFO - Commande ID : 243968 annulée.
+2025-02-24 10:59:45,288 - INFO - Vérification ajout possible : True
+2025-02-24 10:59:45,289 - INFO - Commande ajoutée et autorisée. Nombre de commandes: 10
+2025-02-24 10:59:49,339 - INFO - Commande 739456 changée à l'état 'En traitement'
+2025-02-24 10:59:55,704 - INFO - Commande 739456 changée à l'état 'Expédiée'
+2025-02-24 11:00:03,252 - INFO - Commande 847040 changée à l'état 'En traitement'
+2025-02-24 11:00:15,793 - INFO - Les données ont été exportées vers commandes_exportees.csv.
+2025-02-24 11:00:32,455 - INFO - Fermeture de l'application et nettoyage propre des GPIO

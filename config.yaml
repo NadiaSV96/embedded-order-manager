@@ -1,0 +1,47 @@
+# Configuration des paramètres de l'application
+
+screen:
+  width: 1100
+  height: 900
+
+ui:
+  font_size: 28
+  title_font_size: 42
+  button_width: 100
+  button_height: 40
+  table_start_x: 25
+  table_start_y: 450
+  table_width: 850
+
+gpio:
+  led_pin_rouge: 18
+  led_pin_jaune: 23
+  led_pin_verte: 24
+  buzzer_pin: 17
+  quit_button_pin: 20
+  export_button_pin: 4
+
+colors:
+  white: [255, 255, 255]
+  black: [0, 0, 0]
+  blue: [0, 42, 95]
+  grey: [200, 200, 200]
+  red: [255, 0, 0]
+  yellow: [255, 255, 0]
+  green: [0, 255, 0]
+
+max_commands: 10
+
+email:
+  sender_email: 'your_email@example.com'
+  recipient_email: 'recipient@example.com'
+  app_password: 'your_app_password_here'
+
+weather:
+  api_key: 'your_openweathermap_api_key'
+  location: 'Montreal'
+  country_code: 'ca'
+  language: 'fr'
+  units: 'metric'
+
+pin: '1234'
