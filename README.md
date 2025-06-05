@@ -2,6 +2,8 @@
 # 🧾 Order Management System
 
 > This is my first large-scale project completed in Winter 2024 as part of my training in embedded programming and Python.
+> 
+> **🧪 This project was part of my early learning experience — while functional, the code structure and modularity could be improved.
 
 ## 📌 Objective
 
