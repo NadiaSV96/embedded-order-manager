@@ -1,7 +1,9 @@
 
 # 🧾 Système de Gestion de Commandes
 
-> Ceci est mon premier projet d'envergure réalisé à l'hiver 2024 dans le cadre de ma formation en programmation embarquée et Python.
+> Ceci est mon tout premier projet d’envergure, réalisé à l’hiver 2024 dans le cadre de ma formation en programmation embarquée et en Python.
+>
+> **🧪 Il s’agit d’un projet issu de mes premiers apprentissages — bien que fonctionnel, la structure du code et la modularité peuvent être améliorées.
 
 ## 📌 Objectif
 
